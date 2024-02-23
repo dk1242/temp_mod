@@ -1,6 +1,6 @@
 module github.com/dk1242/temp_mod
 
-go 1.21.6
+go 1.21.7
 
 require rsc.io/quote/v4 v4.0.1
 
